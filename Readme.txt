@@ -1,0 +1,1 @@
+The colab Code here does not include secrets as GitHub does not allow to post upload them, so either use the link from the  word file or use your own API KEY for Gemini tnx!
